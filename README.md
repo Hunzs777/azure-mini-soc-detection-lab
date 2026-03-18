@@ -1,0 +1,1 @@
+# azure-mini-soc-detection-lab
