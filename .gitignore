@@ -1,0 +1,5 @@
+*.rdp
+*.tmp
+*.log
+*.bak
+.env
